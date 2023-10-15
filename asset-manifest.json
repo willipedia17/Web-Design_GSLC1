@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Web-Design_GSLC1/static/css/main.f847e529.css",
+    "main.js": "/Web-Design_GSLC1/static/js/main.01e1b907.js",
+    "static/js/787.65c3fae8.chunk.js": "/Web-Design_GSLC1/static/js/787.65c3fae8.chunk.js",
+    "index.html": "/Web-Design_GSLC1/index.html",
+    "main.f847e529.css.map": "/Web-Design_GSLC1/static/css/main.f847e529.css.map",
+    "main.01e1b907.js.map": "/Web-Design_GSLC1/static/js/main.01e1b907.js.map",
+    "787.65c3fae8.chunk.js.map": "/Web-Design_GSLC1/static/js/787.65c3fae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f847e529.css",
+    "static/js/main.01e1b907.js"
+  ]
+}
